@@ -1,5 +1,5 @@
 ## <em> Hi I'm Ajit </em> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-><em> I'm Ajit ! </em> &nbsp; <em> I'm Working towards achieving epitome of consistency  </em> 📈
+><em></em> &nbsp; <em> I'm Working towards achieving epitome of consistency  </em> 📈
 
 <div class="suck">
 <img width=500px height=300px align="left" src="https://images.unsplash.com/photo-1527474305487-b87b222841cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
