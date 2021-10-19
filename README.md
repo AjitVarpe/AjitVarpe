@@ -26,7 +26,7 @@
  
  
 ![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjitVarpe&show_icons=true&theme=tokyonight)
- <Div  padding-left: 10px>
+ <Div  padding-left:10px>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitVarpe&layout=compact)](https://github.com/AjitVarpe/github-readme-stats)
 </Div>
 
