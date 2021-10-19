@@ -25,6 +25,6 @@
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
  
  
-![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjitVarpe&show_icons=true&theme=radical)
+![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjitVarpe&show_icons=true&theme=tokyonight)
 
  
