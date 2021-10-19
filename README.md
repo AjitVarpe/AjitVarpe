@@ -1,18 +1,24 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-<!-- Actual text -->
+## <em> Hi </em> <img src="https://pngtree.com/freepng/data-scientist-isometric-illustration-concept-modern-flat-design-concept-of-web-page-design-for-website-and-mobile-websitevector-illustration-eps-10_4959895.html" width="30px"><em> I'm Ajit ! </em> &nbsp; <em> I'm Working towards achieving epitome of consistency  </em> 📈
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div class="suck">
+<img width=500px height=300px align="left" src="https://raw.githubusercontent.com/ColonelAVP/ColonelAVP/master/1_BU7f02LeQeELztqxa8eCmw.gif" />
+ </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-<!-- [1]: https://twitter.com/Martin_Heinz_  -->
-[2]: https://www.linkedin.com/in/ajit-varpe-95b575179
+#### <em> ⭕ How to Reach me: </em>
+&nbsp; &nbsp; [<img height="28" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />](https://twitter.com/ColonelAVP_)
+&nbsp; &nbsp; [<img height="28" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />](https://www.facebook.com/atherv.v.patil/)
+&nbsp; &nbsp; [<img height="28" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />](https://www.instagram.com/athervvpatil/)
+&nbsp; &nbsp; [<img height="28" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />](https://www.linkedin.com/in/atherv-patil-4a86691b1/)
+#### <em> ⭕ MCA student </em>
+#### <em> ⭕ Python Programmer 🐍� </em>
+#### <em> ⭕ Data Science Learner</em>
+#### <em> ⭕ Software Engineer in making ⏳ </em>
+#### <em> ⭕ Currently Working on: Machine Learning And Deep Learning Project</em> 
+#### <em> ⭕ My ToolBox ⬇️
+&nbsp; <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30"/> 
+ <img align="left" src="https://img.icons8.com/windows/32/26e07f/django.png" width="30" height="30"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+<img align="left" src="https://img.icons8.com/color/48/26e07f/pycharm.png" width="30" height="30"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="30" height="30"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="25" height="30"/> 
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
