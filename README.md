@@ -1,7 +1,7 @@
 ## <em> Hi </em> <img src="https://pngtree.com/freepng/data-scientist-isometric-illustration-concept-modern-flat-design-concept-of-web-page-design-for-website-and-mobile-websitevector-illustration-eps-10_4959895.html" width="30px"><em> I'm Ajit ! </em> &nbsp; <em> I'm Working towards achieving epitome of consistency  </em> 📈
 
 <div class="suck">
-<img width=500px height=300px align="left" src="https://raw.githubusercontent.com/ColonelAVP/ColonelAVP/master/1_BU7f02LeQeELztqxa8eCmw.gif" />
+<img width=500px height=300px align="left" src="https://pngtree.com/freepng/data-scientist-isometric-illustration-concept-modern-flat-design-concept-of-web-page-design-for-website-and-mobile-websitevector-illustration-eps-10_4959895.html" />
  </div>
 
 #### <em> ⭕ How to Reach me: </em>
