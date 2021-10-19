@@ -27,7 +27,7 @@
  
 ![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjitVarpe&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitVarpe&layout=compact)](https://github.com/AjitVarpe/github-readme-stats)
+ [![Top Langs]align='CenterHorzontal'(https://github-readme-stats.vercel.app/api/top-langs/?username=AjitVarpe&layout=compact)](https://github.com/AjitVarpe/github-readme-stats)
 
 
  
