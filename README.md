@@ -14,7 +14,7 @@
 #### <em> ⭕ Competitive Coder </em>
 #### <em> ⭕ Data Science Learner</em>
 #### <em> ⭕ Software Engineer in making ⏳ </em>
-#### <em> ⭕ Currently Working on: Machine Learning And Deep Learning Project</em> 
+#### <em> ⭕ Currently Working on: Low level System Design and High Level System Design</em> 
 #### <em> ⭕ My ToolBox ⬇️
 &nbsp; <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30"/> 
  <img align="left" src="https://img.icons8.com/windows/32/26e07f/django.png" width="30" height="30"/>
