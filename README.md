@@ -23,7 +23,8 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="30" height="30"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="25" height="30"/> 
 <img  src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
- 
+ <div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ajit-varpe-95b575179" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ajit-varpe-95b575179?trk=profile-badge">Ajit Varpe</a></div>
+              
   <p align="right">  <img src="https://gpvc.arturio.dev/AjitVarpe" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/Ajitvarpe9"><img src="https://img.shields.io/twitter/follow/Ajitvarpe9?style=social"></a>&nbsp;&nbsp;</p>
 
 ![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjitVarpe&show_icons=true&theme=tokyonight)
