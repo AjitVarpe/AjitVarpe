@@ -28,6 +28,7 @@
 ![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjitVarpe&show_icons=true&theme=tokyonight)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitVarpe&layout=compact)](https://github.com/AjitVarpe/github-readme-stats)
+ <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/Ajitvarpe9"><img src="https://img.shields.io/twitter/follow/Ajitvarpe9?style=social"></a>&nbsp;&nbsp;</p>
 
 
  
