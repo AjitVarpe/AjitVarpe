@@ -25,11 +25,11 @@
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
  
   <p align="right">  <img src="https://gpvc.arturio.dev/AjitVarpe" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/Ajitvarpe9"><img src="https://img.shields.io/twitter/follow/Ajitvarpe9?style=social"></a>&nbsp;&nbsp;</p>
- 
+ <p align="right"
 ![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjitVarpe&show_icons=true&theme=tokyonight)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitVarpe&layout=compact)](https://github.com/AjitVarpe/github-readme-stats)
  
-
+ ></p>
 
  
