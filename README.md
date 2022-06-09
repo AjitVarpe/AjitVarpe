@@ -1,4 +1,4 @@
-## <em> Hi I'm Ajit </em> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## <em> Hi I'm Ajit </em> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 ><em></em> &nbsp; <em> I'm Working towards achieving epitome of consistency  </em> 📈
 
 <div class="suck">
